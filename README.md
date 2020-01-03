@@ -28,6 +28,8 @@ Python 3.6.5, Pytorch 1.1.0
 
 # References
 
-작성한 코드의 대부분의 틀은 github 사이트에서 참조를 하였다(https://github.com/amdegroot/ssd.pytorch)
+작성한 코드의 대부분의 틀은 github 사이트에서 참조를 하였다
+https://github.com/amdegroot/ssd.pytorch
 
-BDD100K(Berkeley DeepDrive, self car driving Datasets)https://github.com/ucbdrive/bdd-data
+BDD100K(Berkeley DeepDrive, self car driving Datasets)
+https://github.com/ucbdrive/bdd-data
