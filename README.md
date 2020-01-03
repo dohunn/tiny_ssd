@@ -14,8 +14,8 @@ Object detection 모델인 SSD를 축소시킨 tiny ssd는 base network인 VGG16
 2. tiny SSD(aspect ratio, normal size)
 3. tiny SSD(aspect ratio, min size)
 
-- library 및 version
-Python 3.6.5, Pytorch 1.1.0
+library 및 version
+- Python 3.6.5, Pytorch 1.1.0
 
 # Datasets
 
